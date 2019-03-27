@@ -1,48 +1,18 @@
-# Learning Materials and Presentations
+# Open Source/Open Access Learning Materials and Presentations
 
-This is the website for the Educational Collective, a Github organization created for sharing educational materials and materials about education. To access the collection of repos (individual projects, for those of you who do not use Github regularly) you can click on the "[View My GitHub Profile](https://github.com/theEducationalCollective)" link to the left or the highlighted text. There you will find one repo per project, and inside of each repo are all of the shared materials.
+This is the website for the Educational Collective, a Github organization created for sharing **educational materials** and **materials about education**.
 
-If you are a Github user, feel free to fork the repos that interest you, and don't forget to send pull requests for any great improvements you add. If you are a regular user, each repo has a large green "Clone or Download" button for getting copies of the files to your own computer. Just click the button and select "Download Zip."
+## For Github Users
 
+To access the collection of repos (individual projects, for those of you who do not use Github regularly) you can click on the "[View My GitHub Profile](https://github.com/theEducationalCollective)" link to the left or the highlighted text. There you will find one repo per project, and inside of each repo are all of the shared materials. From your Github account, feel free to fork the repos that interest you, and don't forget to send pull requests for any great improvements you add. If you just want the code, each repo has a large green "Clone or Download" button for getting copies of the files to your own computer. Just click the button and select "Download Zip."
 
-
-
-
-
+## For Everyone Else
 
 
-You can use the [editor on GitHub](https://github.com/theEducationalCollective/theEducationalCollective.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Support or Contact
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/theEducationalCollective/theEducationalCollective.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This organization is maintained by Matthew D. Turner, available at: [mdtdev@github](https://github.com/mdtdev), [doctorambient@twitter](https://twitter.com/doctorambient), and [drmattturner@LinkedIn](https://www.linkedin.com/in/drmattturner/) (although that last one is always out of date). If you need help with these materials you can also [contact me directly](mailto:mturner46@gsu.edu).
