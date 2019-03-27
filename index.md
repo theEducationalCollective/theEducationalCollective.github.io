@@ -1,4 +1,3 @@
-<br/><br/>
 # Learning Materials and Presentations
 
 This is the website for the Educational Collective, a Github organization created for sharing educational materials and materials about education. To access the collection of repos (individual projects, for those of you who do not use Github regularly) you can click on the "[View My GitHub Profile](https://github.com/theEducationalCollective)" link to the left or the highlighted text. There you will find one repo per project, and inside of each repo are all of the shared materials.
