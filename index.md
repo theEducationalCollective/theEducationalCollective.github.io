@@ -8,10 +8,22 @@ To access the collection of repos (individual projects, for those of you who do 
 
 ## For Everyone Else
 
+Most of you are probably here to get the **Southeastern Psychological Association (SEPA) Workshops** from the annual meetings. All of the workshops, along with any updates made to them since the original presentation, are in this [single repo](https://github.com/theEducationalCollective/SEPA-Annual-Workshops) and can be downloaded as a single zip file following the instructions above. Note that when you download from Github, there is extra stuff included in hidden folders. It is not huge, but if your disk is full read on...
 
+If you want a specific workshop and nothing else, or want to avoid the extra Github data, then you can download the specific workshops from [our repositiory](https://osf.io/hnq32/) on the [Open Science Framework](https://osf.io/) from these links:
 
++ 2019: [Graphics in R Using ggplot2](https://osf.io/8gvey/download)
++ 2018: [Introduction to R](https://osf.io/ehwxv/download)
++ 2018: [Introduction to the Bootstrap in R for Psychology](https://osf.io/pkbre/download)
++ 2019: [Linear Models in R](https://osf.io/fs9na/download)
 
+If you want the older workshops, see the repo referred to above. These links and files will be kept up to date as best as we can, but if you want the bleeding edge, clone the repo following the instructions above.
 
+## Citation
+
+To cite this archive, please use:
+
+_Turner, M. D. (2019, March 26). SEPA Annual Workshops. Retrieved from github.com/theEducationalCollective._
 
 ## Support or Contact
 
