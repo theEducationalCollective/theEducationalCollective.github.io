@@ -19,7 +19,7 @@ All of the workshops, along with any updates made to them since the original pre
 
 To cite this archive, please use:
 
-> Turner, M. D. (2019, March 26). SEPA Annual Workshops. Retrieved from github.com/theEducationalCollective.
+> Turner, Matthew D. (2019, March 26). SEPA Annual Workshops. Retrieved from github.com/theEducationalCollective.
 
 ## For Github Users
 
