@@ -29,7 +29,7 @@ To access the collection of repos (repositories; individual projects, for those 
 
 If you specifically want the older versions of the SEPA workshops, see the [SEPA Annual Workshops Repo](https://github.com/theEducationalCollective/SEPA-Annual-Workshops). This repo contains **all** of the workshops presented at SEPA in a single place, not just the most recent version or year. These versions also incorporate any minor updates and fixes discovered since presentation. The individual links above will be kept up to date, but, if you absolutely want the latest stuff, you will have to sign up for Github and clone the repo. (Most people do **not** need this!)
 
-If you just want the **code and materials** from all of the workshops, but don't want to sign up for Github, each repo has a large green "Clone or Download" button for getting copies of the files to your own computer. Just click the button and select "Download Zip." (You will get some extra junk Github uses for tracking the history of the projects, but it is not too excessive. But there will be some invisible files and folders and these will take up a few MB of space.)
+If you just want the **code and materials** from all of the workshops, but don't want to sign up for Github, each repo has a large green "Code" button for getting copies of the files to your own computer. Just click the button and select "Download Zip." (You will get some extra junk Github uses for tracking the history of the projects, but it is not too excessive. But there will be some invisible files and folders and these will take up a few MB of space.)
 
 ## Support or Contact
 
